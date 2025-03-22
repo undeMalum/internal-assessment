@@ -1,6 +1,6 @@
 # CS Internal Assessment  
 
-This page is dedicated to my CS IA, which I completed during the IB program. Here, you can find all relevant files or links to referenced documents.  
+[This page](https://undemalum.github.io/internal-assessment/) is dedicated to my CS IA, which I completed during the IB program. Here, you can find all relevant files or links to referenced documents.  
 
 However, the setup of this repository and website does not exactly match how an IA should be submitted.  
 
